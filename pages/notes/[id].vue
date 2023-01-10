@@ -7,7 +7,7 @@
   </div>
   <hr />
   <div>
-    <div class="text-2xl font-serif text-center text-red-500">
+    <div class="text-3xl font-serif text-center font-bold text-red-500">
       {{ note.description }}
     </div>
   </div>
