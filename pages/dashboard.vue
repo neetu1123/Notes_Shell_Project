@@ -200,7 +200,7 @@
   </nav>
 
     </div>
-<div>
+<div class="flex justify-center">
     <img src="../assets/css/noteslogo.jpg" class="h-screen" alt="">
 </div>
 
